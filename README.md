@@ -11,6 +11,6 @@
 
 Meu nome é Rafael Lopes,Desenvolvedor de software e apaixonado por tecnologia.
 
-- :office_worker: Desenvolvedor na **5G Capital**
+- 👨🏽‍💻 Desenvolvedor e Head de desenvolvimento na **5G Capital**
 - :blue_heart: Techs: React.js,Node.js, Docker, TypeScript,Php,SQL,NoSQL entre outras.
 ---
