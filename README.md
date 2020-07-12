@@ -1,4 +1,4 @@
-# :man_technologist: Rafael Lopes
+# :👨🏽‍💻: Rafael Lopes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaBarros93)](https://github.com/RafaBarros93)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rafael-lopes-838783108/)](https://www.linkedin.com/in/rafael-lopes-838783108/)
